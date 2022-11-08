@@ -9,14 +9,14 @@ A hexo plugin which adds githubreader tags to show githubrepo in your markdown
 Installation of the plugin is best managed via [npm](https://www.npmjs.com/package/hexo-githubreader-tags). Run the following to install the plugin:
 
 ```shell
-npm i hexo-draft-tags
+npm i hexo-githubreader-tags
 ```
 
 The latest release can also be found [here](https://github.com/couriourc/hexo-githubreader-tags/releases).
 
 ## Usage
 
-To mark draft text, use the 'githubreader' single tag. 
+use the 'githubreader'  tag. 
 
 ```markdown
 
