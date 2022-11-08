@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CallumHewitt/hexo-draft-tags.git"
+    "url": "git+https://github.com/couriourc/hexo-githubreader-tags.git"
   },
   "keywords": [
     "hexo"
   ],
-  "author": "callumhewitt",
+  "author": "couriourc",
   "license": "CC-BY-4.0",
   "bugs": {
     "url": "https://github.com/couriourc/hexo-githubreader-tags/issues"
