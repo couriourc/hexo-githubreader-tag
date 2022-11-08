@@ -1,4 +1,4 @@
-# hexo-draft-tags
+# hexo-githubreader-tags
 
 [![npm version](https://badge.fury.io/js/hexo-githubreader-tags.svg)](https://www.npmjs.com/package/hexo-githubreader-tags)
 
