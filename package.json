@@ -1,0 +1,22 @@
+{
+  "name": "hexo-githubreader-tags",
+  "version": "0.1.1",
+  "description": "A hexo plugin which adds githubreader tags to show githubrepo in your markdown ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumHewitt/hexo-draft-tags.git"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "author": "callumhewitt",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/couriourc/hexo-githubreader-tags/issues"
+  },
+  "homepage": "https://github.com/couriourc/hexo-githubreader-tags#readme"
+}
